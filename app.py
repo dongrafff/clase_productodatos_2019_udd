@@ -12,7 +12,7 @@ from pathlib import Path
 from fastai import *
 from fastai.vision import *
 
-# Flask utils
+# Flask utils hace posible la aplicacion web
 from flask import Flask, redirect, url_for, request, render_template
 from werkzeug.utils import secure_filename
 
@@ -20,13 +20,13 @@ from werkzeug.utils import secure_filename
 # Define a flask app
 app = Flask(__name__)
 
-
+# aca se carga el modelo
 path = Path("models")
 learn = load_learner(path)
 
 
 
-
+# le paso una imagen la carga en memoria y predice que es
 def model_predict(img_path):
     """
        model_predict will return the preprocessed image
@@ -39,7 +39,8 @@ def model_predict(img_path):
 
 
 
-
+# esto es lo qeu hace, al entrar anda al index.html y muestra esto, el como se ve la pagina web esta declado aca
+# este index.html se puede modificar a su gusto
 @app.route('/', methods=['GET'])
 def index():
     # Main page
