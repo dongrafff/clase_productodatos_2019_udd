@@ -11,7 +11,7 @@
 
 > Se modifico la presentación de heroku en el html de forma básica, dado el conocimiento el cual poseo, usted puede modificar el html a su gusto y poder complementarlo con todo lo que desee. Estos archivos html que puede modificar se encuentran en la carpeta template del repositorio.
 
-> En el main frame del heroku se encuentra la contextualización del problema el cual lo soluciona el aplicativo presentado.
+> En el mainframe del heroku se encuentra la contextualización del problema el cual lo soluciona el aplicativo presentado.
 
 > Finamente a continuación se adjunta lo necesario para implementar el modelo y poder replicar el ejercicio con las modificaciones que desee implementar.
 
