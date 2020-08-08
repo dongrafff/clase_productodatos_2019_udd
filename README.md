@@ -13,7 +13,7 @@
 
 > En el main frame del heroku se encuentra la contextualización del problema el cual lo soluciona el aplicativo presentado.
 
-> Finamente lo a continuación se adjunta lo necesario para implementar el modelo y con poder replicar el ejercicio y poder mejorarlo a su gusto.
+> Finamente a continuación se adjunta lo necesario para implementar el modelo y poder replicar el ejercicio con las modificaciones que desee implementar.
 
 
 ## Lo primero que se requiere
