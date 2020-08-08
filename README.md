@@ -2,7 +2,7 @@
 # Laboratorio: Publicando un modelo de deep learning en Heroku
 
 
-> Una revisión de todo el camino necesario para publicar nuestro primer Producto de Datos. Ejemplo disponible en https://facemask-udd.herokuapp.com/
+> A continuiación se presenta una aplicativo de detección de lentes, publicado en la platforma heroku y es mi primer Producto de Datos. El ejemplo disponible en https://detector-lentes.herokuapp.com/  
 
 
 ## Antes de empezar
