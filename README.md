@@ -1,7 +1,7 @@
 
 # Laboratorio: Detector de lentes un modelo de deep learning montado en Heroku
 
-> A continuación se presenta una aplicativo de detección de lentes, publicado en la plataforma heroku es mi primer Producto de Datos. El ejemplo disponible en https://detector-lentes.herokuapp.com/ 
+> A continuación se presenta mi primer Producto de Datos, es un aplicativo de detección de lentes, desarrollado en mi computador local y publicado en la plataforma heroku. El ejemplo disponible en https://detector-lentes.herokuapp.com/ 
 
 ## Algunas consideraciones realizadas en el aplicativo
 
